@@ -1,0 +1,7 @@
+{
+  "appId": "com.noteapp.mobile",
+  "appName": "Notes",
+  "webDir": "dist",
+  "backgroundColor": "#f3f4f6",
+  "android": { "allowMixedContent": false }
+}
